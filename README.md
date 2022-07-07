@@ -1,4 +1,4 @@
-# File_Compression
+# File Compression
 
     npm install
     npm start
